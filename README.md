@@ -1,2 +1,2 @@
 # Rscripts
-This repository will contain the supplementary files.
+This repository contains the supplementary files.
